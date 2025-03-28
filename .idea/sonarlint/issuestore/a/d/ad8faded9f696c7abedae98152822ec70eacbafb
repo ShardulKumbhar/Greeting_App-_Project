@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™¯÷İúÿÿÿÿ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(…õúÿÿÿÿ
+f
+java:S1128"PRemove this unused import 'com.GreetingApp.GreetingApp.Service.GreetingService'.(ø·Öì
+v
+java:S1128"`Remove this unused import 'org.springframework.web.servlet.support.ServletUriComponentsBuilder'.(™ƒ¹
+?
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°
